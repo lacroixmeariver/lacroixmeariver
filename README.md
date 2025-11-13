@@ -21,7 +21,7 @@ I'm an ✨aspiring ✨ game developer, but a lover of software of all flavors.
 ## Currently working on
 - [Attendance Tracking Application](https://github.com/lacroixmeariver/WSU_Cpts_322) - Ongoing Fall 2025 group project for a web application allowing student club administration to view club attendance data.
 
-- [Spreadsheet Application](https://gitlab.eecs.wsu.edu/illoren1/cpts321-ingrid_llorente-hws) - Ongoing Fall 2025 semester project building a GUI Spreadsheet application.
+- Spreadsheet Application - Ongoing Fall 2025 semester project building a GUI Spreadsheet application. Implementation details upon request.
 
 - [Brewing](https://github.com/lacroixmeariver/Brewing) - A game for the Playdate console.
 
