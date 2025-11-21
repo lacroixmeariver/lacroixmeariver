@@ -23,6 +23,8 @@ I'm an ✨aspiring ✨ game developer, but a lover of software of all flavors.
 
 - Spreadsheet Application - Ongoing Fall 2025 semester project building a GUI Spreadsheet application. Implementation details upon request.
 
+- [PostScript interpreter](https://github.com/lacroixmeariver/Postscript-Interpreter) - Ongoing Fall 2025 project building a REPL CLI PostScript interpreter app written in Go. Supports a subset of PS commands and features lexcial and dynamic scoping options.
+  
 - [Brewing](https://github.com/lacroixmeariver/Brewing) - A game for the Playdate console.
 
 ## Currently learning 
